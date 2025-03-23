@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-center;
+    align-items: center;
     font-family: var(--font);
     font-size: 16px;
     
